@@ -19,21 +19,16 @@
 ### Implementation 
 * Uses module [pynput](https://pynput.readthedocs.io/en/latest/) that allows monitoring of input devices 
 * Pynput is OS AGNOSTIC. Interacts with the backend engine of macOs, linux and windows operating systems 
-* 
 
 Keylogger version 0.0.1
 
-
 [![Keylogger 0.0.1](https://i.ytimg.com/vi_webp/xNErVYfnJB4/maxresdefault.webp)](https://www.youtube.com/watch?v=xNErVYfnJB4)
 
-```Embed a video of deploying the key logger
-
 * Process followed in above video 
-1. User received an email from a "friend" telling them to check out a new game
-2. Nothing happened so user goes about their day
-3. User logins in to a fishing webiste, the beggining of the end
-4. Keylogger, of which is running as a background process is stealthily capturing keystrokes 
-```
+1. Run keylogger0.0.1.py `python3 keylogger001.py`
+2. User heads over to a login page
+3. Enters in credentials
+4. User input is output to the terminal 
 
 ### Versions
 Keylogger: `keylogger001.py`
