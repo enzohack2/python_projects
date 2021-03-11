@@ -12,11 +12,13 @@
 
 ### Assumptions 
 * The assumption is that the keylogger has been installed on a victim machine with poorly or non-existent antivirus software.
-* The keylogger was tested in VirtualBox on a windows 7 machine  
+* Keylogger tested in windows 7, windows 10 and kali linux machines operating systems only, but confident operates in macOs
+* Assumed that user has [pynput](https://pynput.readthedocs.io/en/latest/) module on their machine or that attacker can install the module on the victim machine
 
 ### Implementation 
 * Uses module [pynput](https://pynput.readthedocs.io/en/latest/) that allows monitoring of input devices 
 * Pynput is OS AGNOSTIC. Interacts with the backend engine of macOs, linux and windows operating systems 
+* 
 
 Keylogger version 0.0.1
 
