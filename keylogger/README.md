@@ -15,22 +15,26 @@
 * The keylogger was tested in VirtualBox on a windows 7 machine  
 
 ### Implementation 
-Version 0.0.1
+* Uses module [pynput](https://pynput.readthedocs.io/en/latest/) that allows monitoring of input devices 
+* Pynput is OS AGNOSTIC. Interacts with the backend engine of macOs, linux and windows operating systems 
 
-* NOTE: embed a video of deploying the key logger 
+Keylogger version 0.0.1
+
+```Embed a video of deploying the key logger
+
 * Process followed in above video 
 1. User received an email from a "friend" telling them to check out a new game
 2. Nothing happened so user goes about their day
 3. User logins in to a fishing webiste, the beggining of the end
 4. Keylogger, of which is running as a background process is stealthily capturing keystrokes 
-
+```
 
 ### Versions
-Python file: `keylogger001.py`
+Keylogger: `keylogger001.py`
 * A simple implementation that tracks keystrokes on a macOs, windows or linux machine that has a poorly configure antivirus software 
 * Simply displays how a keylogger works 
 
-Python file `keyloger002.py`
+Keylogger: `keyloger002.py`
 * More advnaced implementation
 * Once active on a victim machine, log files are sent to the attacker's machine
 * Attacker's machine has a server running on an open port 
