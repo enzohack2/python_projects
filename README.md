@@ -1,3 +1,3 @@
-# Self-Led-Python-Projects
+# Python Projects
 
-As the title suggests this repo contains self-led projects that I have worked on and coded in python.
+A range of projects, small to large, that I've developed using [python](https://www.python.org/); a high level programming langauge.
