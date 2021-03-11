@@ -14,6 +14,7 @@
 * The assumption is that the keylogger has been installed on a victim machine with poorly or non-existent antivirus software.
 * Keylogger tested in windows 7, windows 10 and kali linux machines operating systems only, but confident operates in macOs
 * Assumed that user has [pynput](https://pynput.readthedocs.io/en/latest/) module on their machine or that attacker can install the module on the victim machine
+* `pip3 install pynput `
 
 ### Implementation 
 * Uses module [pynput](https://pynput.readthedocs.io/en/latest/) that allows monitoring of input devices 
