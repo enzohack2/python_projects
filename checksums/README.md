@@ -18,7 +18,7 @@ Within the "Script in use" section, the file installed on the host machine for t
 
 ![image](https://user-images.githubusercontent.com/77082071/115679383-70c81400-a34a-11eb-977c-0983e3405b1f.png)
 
-![image](https://user-images.githubusercontent.com/77082071/115679406-76bdf500-a34a-11eb-9856-cf3ab1698561.png)
+![image](https://user-images.githubusercontent.com/77082071/115680064-22ffdb80-a34b-11eb-847e-197741f29da5.png)
 
 2. User copies download source SHA-256 checksum from virtual box SHA-256 checksum page 
 
@@ -29,12 +29,11 @@ Within the "Script in use" section, the file installed on the host machine for t
 * Script generates a checksum and then compares it to the source checksum 
 * User is then informed if checksums match or don't. In this case they do and we can call it a day :D
 
-![image](https://user-images.githubusercontent.com/77082071/115679468-876e6b00-a34a-11eb-80e3-8b726b5caf88.png)
-
+![image](https://user-images.githubusercontent.com/77082071/115680104-2bf0ad00-a34b-11eb-9f71-e316b1a40873.png)
 
 ### Example output when an error occurs (incorrect source checksum)
 
-![image](https://user-images.githubusercontent.com/77082071/115679591-a66cfd00-a34a-11eb-86fb-7495c098b265.png)
+![image](https://user-images.githubusercontent.com/77082071/115680130-327f2480-a34b-11eb-8f78-18005f038b68.png)
 
 ### Conclusion 
 Voilà! We now have seen how checksums can be generated using python's hashlib module, context management and some simple programming logic. And again, the code is within this repository: "sha256gen.py". Feel free to improve upon the code as you wish and happy coding. 
