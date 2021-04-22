@@ -5,10 +5,15 @@ Web scraping, aka web harvesting, is the process of extracting data from website
 
 ### Usage
 
-Script is run in terminal `scrapper001.py` and a firefox browser opens up to the desired webpage. Selenium searches for the given element and extracts the price information and feeds it into a .txt file. Image below shows the .txt file after running for 1 hour.
+Script is run in terminal `scrapper001.py` and a firefox browser opens up to the desired webpage. Selenium searches for the given element storing live price information, extracts the price information and feeds it into a .txt file `gjPriceData.txt`. Images below shows the .txt file after running for 1 hour. It's been automatically updated with price data and will continue to do so for as long as the machine is not shut down. 
 
-![image](https://user-images.githubusercontent.com/77082071/115739813-249ac500-a386-11eb-8eee-73ed1678d502.png)
+![image](https://user-images.githubusercontent.com/77082071/115752698-4437ea80-a392-11eb-9383-340276ef7ba1.png)
 
+![image](https://user-images.githubusercontent.com/77082071/115753106-b8728e00-a392-11eb-8b0c-22284e381c9f.png)
+
+![image](https://user-images.githubusercontent.com/77082071/115752726-4b5ef880-a392-11eb-8cc7-0d18abd7052b.png)
+
+![image](https://user-images.githubusercontent.com/77082071/115752758-531e9d00-a392-11eb-8ce9-74a30e9aae1f.png)
 
 
 ### Links
