@@ -10,3 +10,4 @@ Script is run in terminal `scrapper001.py` and a firefox browser opens up to the
 
 ### Links
 [Geckodriver download page](https://github.com/mozilla/geckodriver/releases) 
+[Instructions for installing selenium package within anaconda environment](https://anaconda.org/conda-forge/selenium)
