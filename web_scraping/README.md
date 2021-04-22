@@ -6,3 +6,7 @@ Web scraping, aka web harvesting, is the process of extracting data from website
 ### Usage
 
 Script is run in terminal `scrapper001.py` and a firefox browser opens up to the desired webpage. Selenium searches for the given element and extracts the price information and feeds it into a .txt file. 
+
+
+### Links
+[Geckodriver download page](https://github.com/mozilla/geckodriver/releases) 
