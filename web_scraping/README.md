@@ -11,9 +11,10 @@ Script is run in terminal `scrapper001.py` and a firefox browser opens up to the
 
 ![image](https://user-images.githubusercontent.com/77082071/115753106-b8728e00-a392-11eb-8b0c-22284e381c9f.png)
 
+![image](https://user-images.githubusercontent.com/77082071/115762400-579b8380-a39b-11eb-96f9-8526d1353c3d.png)
+
 ![image](https://user-images.githubusercontent.com/77082071/115762296-39ce1e80-a39b-11eb-8cae-abd83090b70b.png)
 
-![image](https://user-images.githubusercontent.com/77082071/115752758-531e9d00-a392-11eb-8ce9-74a30e9aae1f.png)
 
 ### Links
 1. [Geckodriver download page](https://github.com/mozilla/geckodriver/releases) 
