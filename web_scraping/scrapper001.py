@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 
-import selenium
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time 
@@ -30,7 +29,7 @@ def scrape_price():
 
             f.writelines(f"{time_format},{price_val}\n") 
 
-            # reload the driver to the same webpage 
+            # Reloading the webpage  
             driver.refresh()
 
 
