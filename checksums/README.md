@@ -1,7 +1,7 @@
 # Generating a SHA-256 checksum with python!
 
 ### Introduction
-You may be wondering what is a checksum? Or perhaps you're wondering, why would I bother hardcode a SHA-256 checksum generating script in python? Aren't there are applications that can automitcally handle hashing for me? Firstly, coding is fun. If that answer doesn't suffice, then learning new programming skills is a fantastic way to enhance your tech know-how. With the "why" out the way, let's tackle the "what". 
+You may be wondering, what is a checksum? Or perhaps you're wondering, why would I bother hardcode a SHA-256 checksum generating script in python? Aren't there are applications that can automitcally handle hashing for me? Firstly, coding is fun. If that answer doesn't suffice, then learning new programming skills is a fantastic way to enhance your tech know-how. With the "why" out the way, let's tackle the "what". 
 
 What is a checksum? A checksum is the result of running a cryptographic hashing function on a piece of data. Checksums are usually generated on application installer files, .exe file extension on windows, for the purpose of verfying the integrity of a download. Ensuring the downloaded file hasn't beeen corrupted during transmission by comparing the download source checksum and he checksum generated on the downloaded application installer file once it's on the host machine. There are various checksum generating algorithms and in today's case, we'll be work with the SHA-256 algorithm.
 
