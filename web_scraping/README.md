@@ -15,7 +15,6 @@ Script is run in terminal `scrapper001.py` and a firefox browser opens up to the
 
 ![image](https://user-images.githubusercontent.com/77082071/115752758-531e9d00-a392-11eb-8ce9-74a30e9aae1f.png)
 
-
 ### Links
 1. [Geckodriver download page](https://github.com/mozilla/geckodriver/releases) 
 2. [Instructions for installing selenium package within anaconda environment](https://anaconda.org/conda-forge/selenium)
