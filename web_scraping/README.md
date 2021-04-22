@@ -9,6 +9,7 @@ Script is run in terminal `scrapper001.py` and a firefox browser opens up to the
 
 
 ### Links
-[Geckodriver download page](https://github.com/mozilla/geckodriver/releases) 
-[Instructions for installing selenium package within anaconda environment](https://anaconda.org/conda-forge/selenium)
-[Installing selenium with pip](https://selenium-python.readthedocs.io/installation.html)
+1. [Geckodriver download page](https://github.com/mozilla/geckodriver/releases) 
+2. [Instructions for installing selenium package within anaconda environment](https://anaconda.org/conda-forge/selenium)
+3. [Installing selenium with pip](https://selenium-python.readthedocs.io/installation.html)
+4. Selenium simple usage [tutorial](https://selenium-python.readthedocs.io/getting-started.html#simple-usage)
