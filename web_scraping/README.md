@@ -5,7 +5,10 @@ Web scraping, aka web harvesting, is the process of extracting data from website
 
 ### Usage
 
-Script is run in terminal `scrapper001.py` and a firefox browser opens up to the desired webpage. Selenium searches for the given element and extracts the price information and feeds it into a .txt file. 
+Script is run in terminal `scrapper001.py` and a firefox browser opens up to the desired webpage. Selenium searches for the given element and extracts the price information and feeds it into a .txt file. Image below shows the .txt file after running for 1 hour.
+
+![image](https://user-images.githubusercontent.com/77082071/115739813-249ac500-a386-11eb-8eee-73ed1678d502.png)
+
 
 
 ### Links
@@ -13,3 +16,4 @@ Script is run in terminal `scrapper001.py` and a firefox browser opens up to the
 2. [Instructions for installing selenium package within anaconda environment](https://anaconda.org/conda-forge/selenium)
 3. [Installing selenium with pip](https://selenium-python.readthedocs.io/installation.html)
 4. Selenium simple usage [tutorial](https://selenium-python.readthedocs.io/getting-started.html#simple-usage)
+5. Stackoverflow looping algorithm [examples](https://stackoverflow.com/questions/35722465/python-repeat-an-algorithm-exactly-every-5th-minute-of-the-hour)
