@@ -1,4 +1,4 @@
-# Converting python files to executables
+# How to convert a python file, .py, into an executable file, .exe
 
 ### Introduction 
 
