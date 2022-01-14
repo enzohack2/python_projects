@@ -40,3 +40,4 @@ Voilà! We now have seen how checksums can be generated using python's hashlib m
 
 ### Useful links
 1. Checksum explained on [HowToGeek.com](https://www.howtogeek.com/363735/what-is-a-checksum-and-why-should-you-care/)
+2. ZimCanITvideo: [ CODING a file checksum verifier using the SHA-256 algorithm!](https://www.youtube.com/watch?v=1ZjuyaMDteg&t=88s)
