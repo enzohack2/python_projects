@@ -15,8 +15,7 @@ Although threading can be implemented to increase the processing speed of the sc
 1. Update repositories with latest upstream package updates: `sudo apt-get update`
 2. Install mousepad text editor: `sudo apt install mousepad -y`
 3. Install pip for python3.x: `sudo apt install python3-pip -y`
-4. Install python-nmap: `sudo python3-pip install nmap -y`
-* Note: if you wish to run nmap as a standalone application enter: `sudo apt install nmap -y`
+4. Install python-nmap: `pip install python-nmap`
 
 ### Network topology
 
