@@ -11,6 +11,13 @@ Although threading can be implemented to increase the processing speed of the sc
 3. Launch the script and ensure that all information created is stored in a `hosts_discovered.txt` file
 4. Exfilitrate the `hosts_discovered.txt` file stored on a machine on a separate network owned by the attacker. Either via DNS exfiltration or email (less effective)
 
+### Project setup (assuming you're using Ubuntu 
+1. Update repositories with latest upstream package updates: `sudo apt-get update`
+2. Install mousepad text editor: `sudo apt install mousepad -y`
+3. Install pip for python3.x: `sudo apt install python3-pip -y`
+4. Install python-nmap: `sudo python3-pip install nmap -y`
+* Note: if you wish to run nmap as a standalone application enter: `sudo apt install nmap -y`
+
 ### Network topology
 
 ### Demonstration 
