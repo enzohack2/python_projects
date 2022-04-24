@@ -25,7 +25,7 @@ class ASIG_BACKUPS:
         # "asigra_backup.txt" contains log information from the performed backup. 
         with open('asigra_backup.txt', "r") as f:
 
-            # removing the \n newline character
+            # removing the \n newline character in "asigra_backup.txt" file
             lines0 = [line.rstrip() for line in f]  
 
             # empty list that is appended with errors found in the log
@@ -33,12 +33,12 @@ class ASIG_BACKUPS:
 
             for i, line in enumerate(lines0):
 
-                # regular expression number range search will need to be confirmed in order to match the length of possible errors
+                # regular expression seerching for backups with errors ranging from 1 > 100 
                 if re.match('^Errors:\s([1-9]|[1-9][0-9]|100)',line):  
                     lines.extend(lines0[i:i+9]) 
                   
 
-        # conditional if no errors are found, where no error logs are appended to lines list 
+        # script stops running if no errors are found
         
         if len(lines) == 0: 
             print("No errors found")
@@ -68,10 +68,9 @@ def main():
     x = ASIG_BACKUPS()
     x.errors_to_file()
     
-    # script runtime
+   
     runtime = perf_counter() - start
-
-    print(f"Script runtim: {runtime}")
+    print(f"Script runtime: {runtime}")
 
 
 
