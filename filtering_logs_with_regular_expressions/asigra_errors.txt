@@ -1,80 +1,50 @@
-Backup Set: UNIX-SSH\rmg-db-03\Backup of PostgreSQL configuration\rmg-asigra
-Performed by: Backup Schedule: Weekdays Backup (8pm)
-Started at: Apr 22, 2022, 8:00:00 PM
-Finished at: Apr 22, 2022, 8:00:10 PM
-Completion: Backup completed with errors.
+Total amount: 1487218 KB
+Backup Set: \\RMG-QUBE-05\Backup of files on C$, System State and Services Database
+Performed by:
+Started at: 30 April 2022 03:31:58
+Finished at: 30 April 2022 04:55:41
+Completion code: Completed with errors
+Errors: 33136
 Warnings: 0
-Errors: 1
-Backed up files: 0
-Total amount: 0 KB
+Backed up files: 337
 
-Backup Set: MySQL\rmg-db-04\Backup of MySQL Databases\rmg-asigra
-Performed by: Backup Schedule: Weekdays Backup (8pm)
-Started at: Apr 22, 2022, 8:00:00 PM
-Finished at: Apr 22, 2022, 8:00:06 PM
-Completion: Backup completed with errors and warnings.
-Warnings: 1
-Errors: 1
-Backed up files: 0
-Total amount: 0 KB
-
-Backup Set: UNIX-SSH\rmg-sysint-11\Backup of /server\rmg-asigra
-Performed by: Backup Schedule: Weekdays Backup (8pm)
-Started at: Apr 22, 2022, 8:00:00 PM
-Finished at: Apr 22, 2022, 8:00:06 PM
-Completion: Backup completed with errors.
+Total amount: 781002 KB
+Backup Set: \\RMG-PP-02\Backup of files on C$, System State and Services Database
+Performed by:
+Started at: 29 April 2022 23:00:58
+Finished at: 30 April 2022 00:23:39
+Completion code: Completed with errors
+Errors: 27499
 Warnings: 0
+Backed up files: 351
+
+Total amount: 1154648 KB
+Backup Set: \\RMG-PP-01\Backup of files on C$, System State and Services Database
+Performed by:
+Started at: 29 April 2022 23:00:56
+Finished at: 30 April 2022 01:08:25
+Completion code: Completed with errors
+Errors: 56998
+Warnings: 0
+Backed up files: 42
+
+Total amount: 159283280 KB
+Backup Set: \\RMG-OBEXPORT-01\Backup of files on C$, System State and Services Database
+Performed by:
+Started at: 29 April 2022 20:22:52
+Finished at: 30 April 2022 00:09:19
+Completion code: Completed with errors
+Errors: 26800
+Warnings: 0
+Backed up files: 1582
+
+Total amount: 659064 KB
+Backup Set: \\RMG-APP-02\Backup of files on E$
+Performed by:
+Started at: 29 April 2022 20:13:52
+Finished at: 29 April 2022 20:19:16
+Completion code: Completed with errors
 Errors: 2
-Backed up files: 0
-Total amount: 0 KB
-
-Backup Set: UNIX-SSH\rmg-web-05\Backup of web code and configuration\rmg-asigra
-Performed by: Backup Schedule: Weekdays Backup (8pm)
-Started at: Apr 22, 2022, 8:00:00 PM
-Finished at: Apr 22, 2022, 8:13:32 PM
-Completion: Backup completed with errors.
 Warnings: 0
-Errors: 4
-Backed up files: 68
-Total amount: 3,938,063 KB
-
-Backup Set: UNIX-SSH\rmg-devweb-03\Backup of web code and configuration\rmg-asigra
-Performed by: Backup Schedule: Weekdays Backup (8pm)
-Started at: Apr 22, 2022, 8:00:00 PM
-Finished at: Apr 22, 2022, 8:25:12 PM
-Completion: Backup completed with errors.
-Warnings: 0
-Errors: 6
-Backed up files: 3,791
-Total amount: 576,914 KB
-
-Backup Set: UNIX-SSH\rmg-devweb-04\Backup of web code and configuration\rmg-asigra
-Performed by: Backup Schedule: Weekdays Backup (8pm)
-Started at: Apr 22, 2022, 8:00:00 PM
-Finished at: Apr 22, 2022, 8:10:16 PM
-Completion: Backup completed with errors.
-Warnings: 0
-Errors: 4
-Backed up files: 270
-Total amount: 1,309,289 KB
-
-Backup Set: UNIX-SSH\rmg-web-04\Clone Backup of web code and configuration\root
-Performed by: Backup Schedule: Weekdays Backup (8pm)
-Started at: Apr 22, 2022, 8:00:00 PM
-Finished at: Apr 23, 2022, 4:25:11 AM
-Completion: Backup completed with errors.
-Warnings: 0
-Errors: 12
-Backed up files: 8,271
-Total amount: 4,590,244 KB
-
-Backup Set: UNIX-SSH\rmg-web-03\Backup of /\rmg-asigra
-Performed by: Backup Schedule: Weekdays Backup (11pm)
-Started at: Apr 22, 2022, 11:00:00 PM
-Finished at: Apr 22, 2022, 11:00:18 PM
-Completion: Backup completed with errors.
-Warnings: 0
-Errors: 1
-Backed up files: 0
-Total amount: 0 KB
+Backed up files: 1
 
