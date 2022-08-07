@@ -1,4 +1,4 @@
-# Keylogger
+# Keylogger (for educational prposes only)
 
 ### Introduction
 * A keystrke logger, aka, spyware, is surveillance software that monitors and logs keys struck on your keyboard.
