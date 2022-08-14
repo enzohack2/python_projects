@@ -1,0 +1,8 @@
+pip install selenium
+pip install webdriver-manager
+pip install pyperclip 
+python modules: [sys, os]
+self-created module: [generator.py]
+# input credentials in terminal without showing values 
+# https://pypi.org/project/pwinput/
+pip install pwinput

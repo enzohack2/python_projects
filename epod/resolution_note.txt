@@ -1,0 +1,9 @@
+Hello {},
+
+I have reset your EPOD password to the following: {}
+
+I have also validated that you can sign into your EPOD account with the above-mentioned password.
+
+You username for your EPOD account should be entered in the format of "firstname lastname", excluding the quotation marks.
+
+Thanks
