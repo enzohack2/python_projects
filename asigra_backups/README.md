@@ -88,6 +88,7 @@ Total amount: 441,780 KB
 8. Function `send_email()` proceeds to leverage smtp library for message sending and the email.message module for email message handline
 * Example email sent once code is ran: `python.exe .\errorchecker.py`
 
+![image](https://user-images.githubusercontent.com/77082071/184531782-513b9d4d-f227-4636-b5e0-d6adac0c83bc.png)
 
 
 ### Sources for learning
