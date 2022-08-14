@@ -1,0 +1,70 @@
+Backup Set: UNIX-SSH\rmg-devweb-03\Backup of web code and configuration\rmg-asigra
+Performed by: Backup Schedule: Weekdays Backup (8pm)
+Started at: Jul 28, 2022, 8:00:00 PM
+Finished at: Jul 28, 2022, 8:28:00 PM
+Completion: Backup completed with errors.
+Warnings: 0
+Errors: 4
+Backed up files: 4,361
+Total amount: 441,780 KB
+
+Backup Set: UNIX-SSH\rmg-web-03\New Backup of /\root
+Performed by: Backup Schedule: Weekdays Backup (8pm)
+Started at: Jul 28, 2022, 8:00:00 PM
+Finished at: Jul 28, 2022, 8:05:25 PM
+Completion: Backup completed with errors.
+Warnings: 0
+Errors: 136
+Backed up files: 113
+Total amount: 212,981 KB
+
+Backup Set: MySQL\rmg-db-04\Backup of MySQL Databases\rmg-asigra
+Performed by: Backup Schedule: Weekdays Backup (8pm)
+Started at: Jul 28, 2022, 8:00:00 PM
+Finished at: Jul 28, 2022, 8:00:07 PM
+Completion: Backup completed with errors and warnings.
+Warnings: 1
+Errors: 1
+Backed up files: 0
+Total amount: 0 KB
+
+Backup Set: UNIX-SSH\rmg-devweb-04\Backup of web code and configuration\rmg-asigra
+Performed by: Backup Schedule: Weekdays Backup (8pm)
+Started at: Jul 28, 2022, 8:00:00 PM
+Finished at: Jul 28, 2022, 8:17:30 PM
+Completion: Backup completed with errors.
+Warnings: 0
+Errors: 5
+Backed up files: 2,738
+Total amount: 73,867 KB
+
+Backup Set: UNIX-SSH\rmg-sysint-11\Backup of /server\rmg-asigra
+Performed by: Backup Schedule: Weekdays Backup (8pm)
+Started at: Jul 28, 2022, 8:00:00 PM
+Finished at: Jul 28, 2022, 8:16:24 PM
+Completion: Backup completed with errors.
+Warnings: 0
+Errors: 65
+Backed up files: 294
+Total amount: 4,173,522 KB
+
+Backup Set: UNIX-SSH\rmg-web-05\Backup of web code and configuration\rmg-asigra
+Performed by: Backup Schedule: Weekdays Backup (8pm)
+Started at: Jul 28, 2022, 8:00:00 PM
+Finished at: Jul 28, 2022, 8:13:02 PM
+Completion: Backup completed with errors.
+Warnings: 0
+Errors: 3
+Backed up files: 312
+Total amount: 1,089,919 KB
+
+Backup Set: UNIX-SSH\rmg-web-04\Clone Backup of web code and configuration\root
+Performed by: Backup Schedule: Weekday Backups - 18:00
+Started at: Jul 28, 2022, 6:00:00 PM
+Finished at: Jul 29, 2022, 7:47:55 AM
+Completion: Backup completed with errors.
+Warnings: 0
+Errors: 4
+Backed up files: 2,640
+Total amount: 6,218,014 KB
+
